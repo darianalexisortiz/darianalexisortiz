@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://darianalexisortiz.github.io](http://darianalexisortiz.github.io)
 
-- 💬 Ask me about **Drupal 7, 8 and 9, PHP, MySQL, JavaScript, Jquery, HTML5, CSS3, Sass**
+- 💬 Ask me about **Drupal 7, 8, 9 and 10, PHP, MySQL, JavaScript, Jquery, HTML5, CSS3, Sass**
 
 - 📫 How to reach me **dalexiso@gmail.com**
 
