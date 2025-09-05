@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darianaleisortiz&label=Profile%20views&color=0e75b6&style=flat" alt="darianaleisortiz" /> </p>
 
-- 🔭 I’m currently working on **weKnow**
+- 🔭 I’m currently working on **Bitechconsulting**
 
-- 🌱 I’m currently learning **Drupal 9 Backend Specialist with Drupalize.Me**
+- 🌱 I’m currently learning IA world
 
 - 👨‍💻 All of my projects are available at [http://darianalexisortiz.github.io](http://darianalexisortiz.github.io)
 
-- 💬 Ask me about **Drupal 7, 8, 9 and 10, PHP, MySQL, JavaScript, Jquery, HTML5, CSS3, Sass**
+- 💬 Ask me about **Drupal 7, 8, 9, 10 and 11 PHP, MySQL, JavaScript, Jquery, HTML5, CSS3, Sass**
 
-- 📫 How to reach me **dalexiso@gmail.com**
+- 📫 How to reach me **darian@dalesolucion.com**
 
 - 📄 Know about my experiences I have been working with technology since 2003 but in 2011 I started experimenting with Drupal 6 in search of an efficient CMS and from there I always developed all my work going through its different versions.
 
